@@ -24,9 +24,6 @@
   "devDependencies": {
     "release-it": "^14.11.6"
   },
-  "dependencies": {
-    "dotenv": "^10.0.0"
-  },
   "publishConfig": {
     "access": "public"
   }
